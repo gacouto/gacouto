@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gacouto
 - 👀 I’m interested in javascript, vue
-- 🌱 I’m currently learning javascript, vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
