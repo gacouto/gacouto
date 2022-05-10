@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gacouto
+
 - 👀 I’m interested in javascript, vue, ts,ts 
 - 📫 How to reach  ...
 
